@@ -1,1 +1,4 @@
-include chromiumos/third_party/zephyr:main:/OWNERS
+include chromiumos/owners:v1:/firmware/OWNERS.zephyr
+
+# ChromeOS Prod
+chromeos-ci-prod@chromeos-bot.iam.gserviceaccount.com #{LAST_RESORT_SUGGESTION}
